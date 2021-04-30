@@ -3,6 +3,7 @@ The HyperText Markup Language, or HTML is the standard markup language for docum
 # link for web page
  https://portfolio-html.poojithakodali.repl.co/
 # Image
- ![IMG_20210430_223901](https://user-images.githubusercontent.com/72956653/116729720-22c7a600-aa05-11eb-8893-57bf4f06fc2f.jpg)
+ ![IMG_20210430_223901](https://user-images.githubusercontent.com/72956653/116729992-8520a680-aa05-11eb-8005-3f0d9e4e0641.jpg)
+
 # Resources used
 https://replit.com 
